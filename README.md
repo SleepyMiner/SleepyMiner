@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepyminer&label=Profile%20views&color=0eb429&style=flat-square" alt="sleepyminer" /> </p>
 
-- 🔭 I’m currently working on [rails_react_api](https://github.com/SleepyMiner/rails_react_api)
+- 🔭 I’m currently working on [Event-Authentication_System](https://github.com/SleepyMiner/Event-Authentication-System)
 
 - 🌱 I’m currently learning **Machine Learning**
 
