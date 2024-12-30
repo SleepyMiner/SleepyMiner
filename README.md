@@ -2,8 +2,6 @@
 <h3 align="center">A full-stack developer architecting exceptional software experiences from the user interface's delicate touch to the backend's robust core. I possess a deep fluency in both frontend and backend realms, wielding languages and frameworks with the precision of a master craftsman.</h3>
 
 
-- 🔭 I’m currently working on [Event-Authentication_System](https://github.com/SleepyMiner/Event-Authentication-System)
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://swayam-gupta.vercel.app/](https://swayam-gupta.vercel.app/)
