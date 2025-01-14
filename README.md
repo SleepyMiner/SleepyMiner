@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://swayam-gupta.vercel.app/](https://swayam-gupta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://swayam-gupta.vercel.app/](https://swayam-gupta.netlify.app/)
 
-- 💬 Ask me about **React, Express, Python and C++**
+- 💬 Ask me about **React, SvelteKit, Java, C++**
 
 - 📫 How to reach me **swayamgupta5698@gmail.com**
 
