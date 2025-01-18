@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://swayam-gupta.vercel.app/](https://swayam-gupta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://swayam-gupta.netlify.app/](https://swayam-gupta.netlify.app/)
 
 - 💬 Ask me about **React, SvelteKit, Java, C++**
 
