@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam Gupta</h1>
-<h3 align="center">A full-stack developer architecting exceptional software experiences from the user interface's delicate touch to the backend's robust core. I possess a deep fluency in both frontend and backend realms, wielding languages and frameworks with the precision of a master craftsman.</h3>
+<h3 align="center">A full-stack developer who can develop beautiful and responsive frontend with technologies like React.js, SvelteKit, TailwindCSS, etc as well as a robust backend with Express, Spring, Bun and BaaS like Pocketbase, Supabase, Appwrite and Firebase. I develop software that can help for a better future.</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning**
